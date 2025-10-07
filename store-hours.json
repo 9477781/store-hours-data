@@ -130,7 +130,7 @@
         ]
       }
     ],
-    "updatedAt": "2025-10-07T04:35:02.928Z"
+    "updatedAt": "2025-10-07T04:51:42.028Z"
   },
   {
     "store": {
@@ -263,7 +263,7 @@
         ]
       }
     ],
-    "updatedAt": "2025-10-07T04:35:02.933Z"
+    "updatedAt": "2025-10-07T04:51:42.045Z"
   },
   {
     "store": {
@@ -386,7 +386,7 @@
         ]
       }
     ],
-    "updatedAt": "2025-10-07T04:35:02.939Z"
+    "updatedAt": "2025-10-07T04:51:42.058Z"
   },
   {
     "store": {
@@ -509,6 +509,6771 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:35:02.943Z"
+    "updatedAt": "2025-10-07T04:51:42.068Z"
+  },
+  {
+    "store": {
+      "id": "store_5507",
+      "numericId": 5507,
+      "url": "",
+      "name": "HUB浅草店",
+      "prefecture": "東京都 台東区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "25:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "holiday"
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "15:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "15:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "15:00",
+            "close": "25:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "25:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "25:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "25:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "15:00",
+            "close": "28:00"
+          }
+        ]
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.078Z"
+  },
+  {
+    "store": {
+      "id": "store_5513",
+      "numericId": 5513,
+      "url": "",
+      "name": "HUB銀座コリドー店",
+      "prefecture": "東京都 中央区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "15:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "14:30",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "15:00",
+            "close": "24:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.091Z"
+  },
+  {
+    "store": {
+      "id": "store_5507",
+      "numericId": 5507,
+      "url": "",
+      "name": "HUB浅草店",
+      "prefecture": "東京都 台東区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "18:00",
+            "close": "25:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "18:00",
+            "close": "27:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "27:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "15:30",
+            "close": "27:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "25:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "18:00",
+            "close": "25:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "18:00",
+            "close": "25:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "18:00",
+            "close": "25:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "18:00",
+            "close": "27:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.109Z"
+  },
+  {
+    "store": {
+      "id": "store_5513",
+      "numericId": 5513,
+      "url": "",
+      "name": "HUB銀座コリドー店",
+      "prefecture": "東京都 中央区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.123Z"
+  },
+  {
+    "store": {
+      "id": "store_5520",
+      "numericId": 5520,
+      "url": "",
+      "name": "HUB日比谷店",
+      "prefecture": "東京都 千代田区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.136Z"
+  },
+  {
+    "store": {
+      "id": "store_5521",
+      "numericId": 5521,
+      "url": "",
+      "name": "HUB東京オペラシティ店",
+      "prefecture": "東京都 新宿区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.154Z"
+  },
+  {
+    "store": {
+      "id": "store_5528",
+      "numericId": 5528,
+      "url": "",
+      "name": "HUB吉祥寺南口店",
+      "prefecture": "東京都 武蔵野市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.166Z"
+  },
+  {
+    "store": {
+      "id": "store_5530",
+      "numericId": 5530,
+      "url": "",
+      "name": "HUB八王子店",
+      "prefecture": "東京都 八王子市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.183Z"
+  },
+  {
+    "store": {
+      "id": "store_5532",
+      "numericId": 5532,
+      "url": "",
+      "name": "HUB池袋東口店ANNEX",
+      "prefecture": "東京都 豊島区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.206Z"
+  },
+  {
+    "store": {
+      "id": "store_5534",
+      "numericId": 5534,
+      "url": "",
+      "name": "HUB柏西口店",
+      "prefecture": "千葉県 柏市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.221Z"
+  },
+  {
+    "store": {
+      "id": "store_5536",
+      "numericId": 5536,
+      "url": "",
+      "name": "HUB四条烏丸店",
+      "prefecture": "京都府 京都市",
+      "region": "kinki"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.233Z"
+  },
+  {
+    "store": {
+      "id": "store_5539",
+      "numericId": 5539,
+      "url": "",
+      "name": "８２神田店",
+      "prefecture": "東京都 千代田区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.248Z"
+  },
+  {
+    "store": {
+      "id": "store_5541",
+      "numericId": 5541,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/35",
+      "name": "８２品川店",
+      "prefecture": "東京都 港区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.261Z"
+  },
+  {
+    "store": {
+      "id": "store_5543",
+      "numericId": 5543,
+      "url": "",
+      "name": "HUB大宮東口店",
+      "prefecture": "埼玉県 さいたま市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.274Z"
+  },
+  {
+    "store": {
+      "id": "store_5545",
+      "numericId": 5545,
+      "url": "",
+      "name": "８２関内店",
+      "prefecture": "神奈川県 横浜市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.290Z"
+  },
+  {
+    "store": {
+      "id": "store_5547",
+      "numericId": 5547,
+      "url": "",
+      "name": "８２三田店",
+      "prefecture": "東京都 港区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.302Z"
+  },
+  {
+    "store": {
+      "id": "store_5549",
+      "numericId": 5549,
+      "url": "",
+      "name": "８２浜松町店",
+      "prefecture": "東京都 港区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.316Z"
+  },
+  {
+    "store": {
+      "id": "store_5552",
+      "numericId": 5552,
+      "url": "",
+      "name": "HUB北千住店",
+      "prefecture": "東京都 足立区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.330Z"
+  },
+  {
+    "store": {
+      "id": "store_5555",
+      "numericId": 5555,
+      "url": "",
+      "name": "HUB梅田茶屋町店",
+      "prefecture": "大阪府 大阪市",
+      "region": "kinki"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.345Z"
+  },
+  {
+    "store": {
+      "id": "store_5557",
+      "numericId": 5557,
+      "url": "",
+      "name": "HUB慶應日吉店",
+      "prefecture": "神奈川県 横浜市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.356Z"
+  },
+  {
+    "store": {
+      "id": "store_5559",
+      "numericId": 5559,
+      "url": "",
+      "name": "８２築地店",
+      "prefecture": "東京都 中央区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.371Z"
+  },
+  {
+    "store": {
+      "id": "store_5561",
+      "numericId": 5561,
+      "url": "",
+      "name": "HUB名駅店",
+      "prefecture": "愛知県 名古屋市",
+      "region": "chubu"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.394Z"
+  },
+  {
+    "store": {
+      "id": "store_5563",
+      "numericId": 5563,
+      "url": "",
+      "name": "HUB八重洲店",
+      "prefecture": "東京都 中央区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.407Z"
+  },
+  {
+    "store": {
+      "id": "store_5565",
+      "numericId": 5565,
+      "url": "",
+      "name": "HUB千葉富士見店",
+      "prefecture": "千葉県 千葉市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.420Z"
+  },
+  {
+    "store": {
+      "id": "store_5567",
+      "numericId": 5567,
+      "url": "",
+      "name": "HUBロッテシティホテル錦糸町店",
+      "prefecture": "東京都 墨田区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.432Z"
+  },
+  {
+    "store": {
+      "id": "store_5570",
+      "numericId": 5570,
+      "url": "",
+      "name": "HUB代々木西口店",
+      "prefecture": "東京都 渋谷区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.446Z"
+  },
+  {
+    "store": {
+      "id": "store_5572",
+      "numericId": 5572,
+      "url": "",
+      "name": "８２渋谷宮益坂店",
+      "prefecture": "東京都 渋谷区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.460Z"
+  },
+  {
+    "store": {
+      "id": "store_5575",
+      "numericId": 5575,
+      "url": "",
+      "name": "HUBあべのキューズモール店",
+      "prefecture": "大阪府 大阪市",
+      "region": "kinki"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.470Z"
+  },
+  {
+    "store": {
+      "id": "store_5577",
+      "numericId": 5577,
+      "url": "",
+      "name": "HUB新橋店",
+      "prefecture": "東京都 港区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.480Z"
+  },
+  {
+    "store": {
+      "id": "store_5579",
+      "numericId": 5579,
+      "url": "",
+      "name": "８２横浜西口店",
+      "prefecture": "神奈川県 横浜市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.490Z"
+  },
+  {
+    "store": {
+      "id": "store_5581",
+      "numericId": 5581,
+      "url": "",
+      "name": "HUB船橋店",
+      "prefecture": "千葉県 船橋市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.501Z"
+  },
+  {
+    "store": {
+      "id": "store_5583",
+      "numericId": 5583,
+      "url": "",
+      "name": "HUB神田東口店",
+      "prefecture": "東京都 千代田区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.514Z"
+  },
+  {
+    "store": {
+      "id": "store_5585",
+      "numericId": 5585,
+      "url": "",
+      "name": "HUB相模大野店",
+      "prefecture": "神奈川県 相模原市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.526Z"
+  },
+  {
+    "store": {
+      "id": "store_5589",
+      "numericId": 5589,
+      "url": "",
+      "name": "HUB京都ヨドバシ店",
+      "prefecture": "京都府 京都市",
+      "region": "kinki"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.543Z"
+  },
+  {
+    "store": {
+      "id": "store_5602",
+      "numericId": 5602,
+      "url": "",
+      "name": "HUB上野昭和通り店",
+      "prefecture": "東京都 台東区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.556Z"
+  },
+  {
+    "store": {
+      "id": "store_5604",
+      "numericId": 5604,
+      "url": "",
+      "name": "HUB仙台一番町四丁目店",
+      "prefecture": "宮城県 仙台市",
+      "region": "tohoku"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.567Z"
+  },
+  {
+    "store": {
+      "id": "store_5606",
+      "numericId": 5606,
+      "url": "",
+      "name": "HUB新宿西口大ガード店",
+      "prefecture": "東京都 新宿区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.580Z"
+  },
+  {
+    "store": {
+      "id": "store_5608",
+      "numericId": 5608,
+      "url": "",
+      "name": "HUB新横浜店",
+      "prefecture": "神奈川県 横浜市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.592Z"
+  },
+  {
+    "store": {
+      "id": "store_5610",
+      "numericId": 5610,
+      "url": "",
+      "name": "HUB名駅四丁目店",
+      "prefecture": "愛知県 名古屋市",
+      "region": "chubu"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.608Z"
+  },
+  {
+    "store": {
+      "id": "store_5613",
+      "numericId": 5613,
+      "url": "",
+      "name": "HUB新橋銀座口店",
+      "prefecture": "東京都 港区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.619Z"
+  },
+  {
+    "store": {
+      "id": "store_5615",
+      "numericId": 5615,
+      "url": "",
+      "name": "HUB東梅田店",
+      "prefecture": "大阪府 大阪市",
+      "region": "kinki"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.631Z"
+  },
+  {
+    "store": {
+      "id": "store_5617",
+      "numericId": 5617,
+      "url": "",
+      "name": "HUB川口店",
+      "prefecture": "埼玉県 川口市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.645Z"
+  },
+  {
+    "store": {
+      "id": "store_5619",
+      "numericId": 5619,
+      "url": "",
+      "name": "HUB三条木屋町店",
+      "prefecture": "京都府 京都市",
+      "region": "kinki"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.663Z"
+  },
+  {
+    "store": {
+      "id": "store_5621",
+      "numericId": 5621,
+      "url": "",
+      "name": "HUB新宿靖国通り店",
+      "prefecture": "東京都 新宿区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.676Z"
+  },
+  {
+    "store": {
+      "id": "store_5623",
+      "numericId": 5623,
+      "url": "",
+      "name": "HUB上野店",
+      "prefecture": "東京都 台東区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.690Z"
+  },
+  {
+    "store": {
+      "id": "store_5625",
+      "numericId": 5625,
+      "url": "",
+      "name": "HUB西武新宿駅前店",
+      "prefecture": "東京都 新宿区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.708Z"
+  },
+  {
+    "store": {
+      "id": "store_5628",
+      "numericId": 5628,
+      "url": "",
+      "name": "HUB飯田橋東口店",
+      "prefecture": "東京都 千代田区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.720Z"
+  },
+  {
+    "store": {
+      "id": "store_5631",
+      "numericId": 5631,
+      "url": "",
+      "name": "HUBみずほPayPayドーム福岡店",
+      "prefecture": "福岡県 福岡市",
+      "region": "unknown"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.737Z"
+  },
+  {
+    "store": {
+      "id": "store_5633",
+      "numericId": 5633,
+      "url": "",
+      "name": "HUB渋谷3号店",
+      "prefecture": "東京都 渋谷区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.754Z"
+  },
+  {
+    "store": {
+      "id": "store_5636",
+      "numericId": 5636,
+      "url": "",
+      "name": "HUB LINKS UMEDA店",
+      "prefecture": "大阪府 大阪市",
+      "region": "kinki"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.768Z"
+  },
+  {
+    "store": {
+      "id": "store_5638",
+      "numericId": 5638,
+      "url": "",
+      "name": "HUBGRAMPUS PUB MIRAI TOWER店",
+      "prefecture": "愛知県 名古屋市",
+      "region": "chubu"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.779Z"
+  },
+  {
+    "store": {
+      "id": "store_5640",
+      "numericId": 5640,
+      "url": "",
+      "name": "HUB羽田空港第2ターミナル店",
+      "prefecture": "東京都 大田区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.797Z"
+  },
+  {
+    "store": {
+      "id": "store_5642",
+      "numericId": 5642,
+      "url": "",
+      "name": "HUB博多筑紫口デイトスアネックス店",
+      "prefecture": "福岡県 福岡市",
+      "region": "unknown"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.817Z"
+  },
+  {
+    "store": {
+      "id": "store_5644",
+      "numericId": 5644,
+      "url": "",
+      "name": "HUBエキマルシェ大阪ウメスト店",
+      "prefecture": "大阪府 大阪市",
+      "region": "kinki"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.833Z"
+  },
+  {
+    "store": {
+      "id": "store_5647",
+      "numericId": 5647,
+      "url": "",
+      "name": "HUBアミュプラザみやざき店",
+      "prefecture": "宮崎県 宮崎市",
+      "region": "unknown"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T04:51:42.847Z"
   }
 ]
