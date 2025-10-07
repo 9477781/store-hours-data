@@ -130,7 +130,7 @@
         ]
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.334Z"
+    "updatedAt": "2025-10-07T06:30:32.122Z"
   },
   {
     "store": {
@@ -263,7 +263,7 @@
         ]
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.340Z"
+    "updatedAt": "2025-10-07T06:30:32.130Z"
   },
   {
     "store": {
@@ -386,13 +386,13 @@
         ]
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.344Z"
+    "updatedAt": "2025-10-07T06:30:32.136Z"
   },
   {
     "store": {
       "id": "store_5506",
       "numericId": 5506,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/5",
       "name": "HUB新宿南口店",
       "prefecture": "東京都 新宿区",
       "region": "kanto"
@@ -509,13 +509,13 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.348Z"
+    "updatedAt": "2025-10-07T06:30:32.142Z"
   },
   {
     "store": {
       "id": "store_5507",
       "numericId": 5507,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/6",
       "name": "HUB浅草店",
       "prefecture": "東京都 台東区",
       "region": "kanto"
@@ -632,13 +632,13 @@
         ]
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.352Z"
+    "updatedAt": "2025-10-07T06:30:32.148Z"
   },
   {
     "store": {
       "id": "store_5513",
       "numericId": 5513,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/10",
       "name": "HUB銀座コリドー店",
       "prefecture": "東京都 中央区",
       "region": "kanto"
@@ -755,15 +755,15 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.356Z"
+    "updatedAt": "2025-10-07T06:30:32.153Z"
   },
   {
     "store": {
-      "id": "store_5507",
-      "numericId": 5507,
-      "url": "",
-      "name": "HUB浅草店",
-      "prefecture": "東京都 台東区",
+      "id": "store_5514",
+      "numericId": 5514,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/11",
+      "name": "HUB新浦安店",
+      "prefecture": "千葉県 浦安市",
       "region": "kanto"
     },
     "range": {
@@ -878,15 +878,15 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.361Z"
+    "updatedAt": "2025-10-07T06:30:32.158Z"
   },
   {
     "store": {
-      "id": "store_5513",
-      "numericId": 5513,
-      "url": "",
-      "name": "HUB銀座コリドー店",
-      "prefecture": "東京都 中央区",
+      "id": "store_5518",
+      "numericId": 5518,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/13",
+      "name": "HUB池袋東口店",
+      "prefecture": "東京都 豊島区",
       "region": "kanto"
     },
     "range": {
@@ -1001,13 +1001,13 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.365Z"
+    "updatedAt": "2025-10-07T06:30:32.164Z"
   },
   {
     "store": {
       "id": "store_5520",
       "numericId": 5520,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/15",
       "name": "HUB日比谷店",
       "prefecture": "東京都 千代田区",
       "region": "kanto"
@@ -1124,13 +1124,13 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.369Z"
+    "updatedAt": "2025-10-07T06:30:32.169Z"
   },
   {
     "store": {
       "id": "store_5521",
       "numericId": 5521,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/16",
       "name": "HUB東京オペラシティ店",
       "prefecture": "東京都 新宿区",
       "region": "kanto"
@@ -1247,13 +1247,259 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.373Z"
+    "updatedAt": "2025-10-07T06:30:32.175Z"
+  },
+  {
+    "store": {
+      "id": "store_5522",
+      "numericId": 5522,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/17",
+      "name": "HUB高田馬場店",
+      "prefecture": "東京都 新宿区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.179Z"
+  },
+  {
+    "store": {
+      "id": "store_5525",
+      "numericId": 5525,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/20",
+      "name": "HUBなんば戎橋店",
+      "prefecture": "大阪府 大阪市",
+      "region": "kinki"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.184Z"
   },
   {
     "store": {
       "id": "store_5528",
       "numericId": 5528,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/22",
       "name": "HUB吉祥寺南口店",
       "prefecture": "東京都 武蔵野市",
       "region": "kanto"
@@ -1370,13 +1616,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.377Z"
+    "updatedAt": "2025-10-07T06:30:32.189Z"
+  },
+  {
+    "store": {
+      "id": "store_5529",
+      "numericId": 5529,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/23",
+      "name": "HUB池袋西口公園店",
+      "prefecture": "東京都 豊島区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.194Z"
   },
   {
     "store": {
       "id": "store_5530",
       "numericId": 5530,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/24",
       "name": "HUB八王子店",
       "prefecture": "東京都 八王子市",
       "region": "kanto"
@@ -1493,13 +1862,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.382Z"
+    "updatedAt": "2025-10-07T06:30:32.200Z"
+  },
+  {
+    "store": {
+      "id": "store_5531",
+      "numericId": 5531,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/25",
+      "name": "HUB上野しのばず通り店",
+      "prefecture": "東京都 台東区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.207Z"
   },
   {
     "store": {
       "id": "store_5532",
       "numericId": 5532,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/26",
       "name": "HUB池袋東口店ANNEX",
       "prefecture": "東京都 豊島区",
       "region": "kanto"
@@ -1616,13 +2108,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.386Z"
+    "updatedAt": "2025-10-07T06:30:32.212Z"
+  },
+  {
+    "store": {
+      "id": "store_5533",
+      "numericId": 5533,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/27",
+      "name": "HUB川崎店",
+      "prefecture": "神奈川県 川崎市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.217Z"
   },
   {
     "store": {
       "id": "store_5534",
       "numericId": 5534,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/28",
       "name": "HUB柏西口店",
       "prefecture": "千葉県 柏市",
       "region": "kanto"
@@ -1739,13 +2354,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.390Z"
+    "updatedAt": "2025-10-07T06:30:32.222Z"
+  },
+  {
+    "store": {
+      "id": "store_5535",
+      "numericId": 5535,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/29",
+      "name": "HUB所沢プロペ通り店",
+      "prefecture": "埼玉県 所沢市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.227Z"
   },
   {
     "store": {
       "id": "store_5536",
       "numericId": 5536,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/30",
       "name": "HUB四条烏丸店",
       "prefecture": "京都府 京都市",
       "region": "kinki"
@@ -1862,13 +2600,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.395Z"
+    "updatedAt": "2025-10-07T06:30:32.233Z"
+  },
+  {
+    "store": {
+      "id": "store_5537",
+      "numericId": 5537,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/31",
+      "name": "HUB恵比寿店",
+      "prefecture": "東京都 渋谷区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.238Z"
   },
   {
     "store": {
       "id": "store_5539",
       "numericId": 5539,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/33",
       "name": "８２神田店",
       "prefecture": "東京都 千代田区",
       "region": "kanto"
@@ -1985,7 +2846,130 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.400Z"
+    "updatedAt": "2025-10-07T06:30:32.242Z"
+  },
+  {
+    "store": {
+      "id": "store_5540",
+      "numericId": 5540,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/34",
+      "name": "HUB池袋西口店",
+      "prefecture": "東京都 豊島区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.246Z"
   },
   {
     "store": {
@@ -2108,13 +3092,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.405Z"
+    "updatedAt": "2025-10-07T06:30:32.251Z"
+  },
+  {
+    "store": {
+      "id": "store_5542",
+      "numericId": 5542,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/36",
+      "name": "HUB名古屋栄錦通り店",
+      "prefecture": "愛知県 名古屋市",
+      "region": "chubu"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.258Z"
   },
   {
     "store": {
       "id": "store_5543",
       "numericId": 5543,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/37",
       "name": "HUB大宮東口店",
       "prefecture": "埼玉県 さいたま市",
       "region": "kanto"
@@ -2231,13 +3338,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.410Z"
+    "updatedAt": "2025-10-07T06:30:32.267Z"
+  },
+  {
+    "store": {
+      "id": "store_5544",
+      "numericId": 5544,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/38",
+      "name": "８２赤坂店",
+      "prefecture": "東京都 港区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.272Z"
   },
   {
     "store": {
       "id": "store_5545",
       "numericId": 5545,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/39",
       "name": "８２関内店",
       "prefecture": "神奈川県 横浜市",
       "region": "kanto"
@@ -2354,13 +3584,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.415Z"
+    "updatedAt": "2025-10-07T06:30:32.277Z"
+  },
+  {
+    "store": {
+      "id": "store_5546",
+      "numericId": 5546,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/40",
+      "name": "HUB東京ドームシティ ラクーア店",
+      "prefecture": "東京都 文京区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.282Z"
   },
   {
     "store": {
       "id": "store_5547",
       "numericId": 5547,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/41",
       "name": "８２三田店",
       "prefecture": "東京都 港区",
       "region": "kanto"
@@ -2477,13 +3830,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.420Z"
+    "updatedAt": "2025-10-07T06:30:32.287Z"
+  },
+  {
+    "store": {
+      "id": "store_5548",
+      "numericId": 5548,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/42",
+      "name": "HUB秋葉原店",
+      "prefecture": "東京都 千代田区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.292Z"
   },
   {
     "store": {
       "id": "store_5549",
       "numericId": 5549,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/43",
       "name": "８２浜松町店",
       "prefecture": "東京都 港区",
       "region": "kanto"
@@ -2600,13 +4076,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.423Z"
+    "updatedAt": "2025-10-07T06:30:32.297Z"
+  },
+  {
+    "store": {
+      "id": "store_5550",
+      "numericId": 5550,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/44",
+      "name": "８２新宿三丁目店",
+      "prefecture": "東京都 新宿区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.301Z"
   },
   {
     "store": {
       "id": "store_5552",
       "numericId": 5552,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/46",
       "name": "HUB北千住店",
       "prefecture": "東京都 足立区",
       "region": "kanto"
@@ -2723,13 +4322,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.427Z"
+    "updatedAt": "2025-10-07T06:30:32.308Z"
+  },
+  {
+    "store": {
+      "id": "store_5553",
+      "numericId": 5553,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/47",
+      "name": "８２AKIBA TOLIM店",
+      "prefecture": "東京都 千代田区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.314Z"
   },
   {
     "store": {
       "id": "store_5555",
       "numericId": 5555,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/49",
       "name": "HUB梅田茶屋町店",
       "prefecture": "大阪府 大阪市",
       "region": "kinki"
@@ -2846,13 +4568,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.431Z"
+    "updatedAt": "2025-10-07T06:30:32.319Z"
+  },
+  {
+    "store": {
+      "id": "store_5556",
+      "numericId": 5556,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/50",
+      "name": "HUB心斎橋店",
+      "prefecture": "大阪府 大阪市",
+      "region": "kinki"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.325Z"
   },
   {
     "store": {
       "id": "store_5557",
       "numericId": 5557,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/51",
       "name": "HUB慶應日吉店",
       "prefecture": "神奈川県 横浜市",
       "region": "kanto"
@@ -2969,13 +4814,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.435Z"
+    "updatedAt": "2025-10-07T06:30:32.331Z"
+  },
+  {
+    "store": {
+      "id": "store_5558",
+      "numericId": 5558,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/52",
+      "name": "HUB町田店",
+      "prefecture": "東京都 町田市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.336Z"
   },
   {
     "store": {
       "id": "store_5559",
       "numericId": 5559,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/53",
       "name": "８２築地店",
       "prefecture": "東京都 中央区",
       "region": "kanto"
@@ -3092,13 +5060,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.439Z"
+    "updatedAt": "2025-10-07T06:30:32.341Z"
+  },
+  {
+    "store": {
+      "id": "store_5560",
+      "numericId": 5560,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/54",
+      "name": "HUB横浜鶴屋町店",
+      "prefecture": "神奈川県 横浜市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.345Z"
   },
   {
     "store": {
       "id": "store_5561",
       "numericId": 5561,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/55",
       "name": "HUB名駅店",
       "prefecture": "愛知県 名古屋市",
       "region": "chubu"
@@ -3215,13 +5306,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.445Z"
+    "updatedAt": "2025-10-07T06:30:32.349Z"
+  },
+  {
+    "store": {
+      "id": "store_5562",
+      "numericId": 5562,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/56",
+      "name": "HUB横浜西口店",
+      "prefecture": "神奈川県 横浜市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.354Z"
   },
   {
     "store": {
       "id": "store_5563",
       "numericId": 5563,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/57",
       "name": "HUB八重洲店",
       "prefecture": "東京都 中央区",
       "region": "kanto"
@@ -3338,13 +5552,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.451Z"
+    "updatedAt": "2025-10-07T06:30:32.358Z"
+  },
+  {
+    "store": {
+      "id": "store_5564",
+      "numericId": 5564,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/58",
+      "name": "８２新宿西口大ガード店",
+      "prefecture": "東京都 新宿区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.363Z"
   },
   {
     "store": {
       "id": "store_5565",
       "numericId": 5565,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/59",
       "name": "HUB千葉富士見店",
       "prefecture": "千葉県 千葉市",
       "region": "kanto"
@@ -3461,13 +5798,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.460Z"
+    "updatedAt": "2025-10-07T06:30:32.367Z"
+  },
+  {
+    "store": {
+      "id": "store_5566",
+      "numericId": 5566,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/60",
+      "name": "８２東銀座店",
+      "prefecture": "東京都 中央区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.373Z"
   },
   {
     "store": {
       "id": "store_5567",
       "numericId": 5567,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/61",
       "name": "HUBロッテシティホテル錦糸町店",
       "prefecture": "東京都 墨田区",
       "region": "kanto"
@@ -3584,13 +6044,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.464Z"
+    "updatedAt": "2025-10-07T06:30:32.378Z"
+  },
+  {
+    "store": {
+      "id": "store_5568",
+      "numericId": 5568,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/62",
+      "name": "８２ロッテシティホテル錦糸町店",
+      "prefecture": "東京都 墨田区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.382Z"
   },
   {
     "store": {
       "id": "store_5570",
       "numericId": 5570,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/64",
       "name": "HUB代々木西口店",
       "prefecture": "東京都 渋谷区",
       "region": "kanto"
@@ -3707,13 +6290,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.469Z"
+    "updatedAt": "2025-10-07T06:30:32.386Z"
+  },
+  {
+    "store": {
+      "id": "store_5571",
+      "numericId": 5571,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/65",
+      "name": "HUB外苑前店",
+      "prefecture": "東京都 港区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.391Z"
   },
   {
     "store": {
       "id": "store_5572",
       "numericId": 5572,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/66",
       "name": "８２渋谷宮益坂店",
       "prefecture": "東京都 渋谷区",
       "region": "kanto"
@@ -3830,13 +6536,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.474Z"
+    "updatedAt": "2025-10-07T06:30:32.396Z"
+  },
+  {
+    "store": {
+      "id": "store_5573",
+      "numericId": 5573,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/67",
+      "name": "８２五反田西口店",
+      "prefecture": "東京都 品川区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.400Z"
   },
   {
     "store": {
       "id": "store_5575",
       "numericId": 5575,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/69",
       "name": "HUBあべのキューズモール店",
       "prefecture": "大阪府 大阪市",
       "region": "kinki"
@@ -3953,13 +6782,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.485Z"
+    "updatedAt": "2025-10-07T06:30:32.404Z"
+  },
+  {
+    "store": {
+      "id": "store_5576",
+      "numericId": 5576,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/70",
+      "name": "HUB蒲田西口店",
+      "prefecture": "東京都 大田区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.408Z"
   },
   {
     "store": {
       "id": "store_5577",
       "numericId": 5577,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/71",
       "name": "HUB新橋店",
       "prefecture": "東京都 港区",
       "region": "kanto"
@@ -4076,13 +7028,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.492Z"
+    "updatedAt": "2025-10-07T06:30:32.413Z"
+  },
+  {
+    "store": {
+      "id": "store_5578",
+      "numericId": 5578,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/93",
+      "name": "HUB池袋サンシャイン通り店",
+      "prefecture": "東京都 豊島区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.420Z"
   },
   {
     "store": {
       "id": "store_5579",
       "numericId": 5579,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/73",
       "name": "８２横浜西口店",
       "prefecture": "神奈川県 横浜市",
       "region": "kanto"
@@ -4199,13 +7274,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.498Z"
+    "updatedAt": "2025-10-07T06:30:32.425Z"
+  },
+  {
+    "store": {
+      "id": "store_5580",
+      "numericId": 5580,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/74",
+      "name": "HUB神谷町店",
+      "prefecture": "東京都 港区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.430Z"
   },
   {
     "store": {
       "id": "store_5581",
       "numericId": 5581,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/75",
       "name": "HUB船橋店",
       "prefecture": "千葉県 船橋市",
       "region": "kanto"
@@ -4322,13 +7520,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.511Z"
+    "updatedAt": "2025-10-07T06:30:32.434Z"
+  },
+  {
+    "store": {
+      "id": "store_5582",
+      "numericId": 5582,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/76",
+      "name": "HUB中之島フェスティバルプラザ店",
+      "prefecture": "大阪府 大阪市",
+      "region": "kinki"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.438Z"
   },
   {
     "store": {
       "id": "store_5583",
       "numericId": 5583,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/77",
       "name": "HUB神田東口店",
       "prefecture": "東京都 千代田区",
       "region": "kanto"
@@ -4445,13 +7766,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.518Z"
+    "updatedAt": "2025-10-07T06:30:32.443Z"
+  },
+  {
+    "store": {
+      "id": "store_5584",
+      "numericId": 5584,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/78",
+      "name": "HUB海浜幕張店",
+      "prefecture": "千葉県 千葉市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.447Z"
   },
   {
     "store": {
       "id": "store_5585",
       "numericId": 5585,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/79",
       "name": "HUB相模大野店",
       "prefecture": "神奈川県 相模原市",
       "region": "kanto"
@@ -4568,13 +8012,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.524Z"
+    "updatedAt": "2025-10-07T06:30:32.452Z"
+  },
+  {
+    "store": {
+      "id": "store_5588",
+      "numericId": 5588,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/82",
+      "name": "HUB京阪京橋店",
+      "prefecture": "大阪府 大阪市",
+      "region": "kinki"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.457Z"
   },
   {
     "store": {
       "id": "store_5589",
       "numericId": 5589,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/84",
       "name": "HUB京都ヨドバシ店",
       "prefecture": "京都府 京都市",
       "region": "kinki"
@@ -4691,13 +8258,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.534Z"
+    "updatedAt": "2025-10-07T06:30:32.463Z"
+  },
+  {
+    "store": {
+      "id": "store_5601",
+      "numericId": 5601,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/85",
+      "name": "HUB仙台名掛丁店",
+      "prefecture": "宮城県 仙台市",
+      "region": "tohoku"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.468Z"
   },
   {
     "store": {
       "id": "store_5602",
       "numericId": 5602,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/86",
       "name": "HUB上野昭和通り店",
       "prefecture": "東京都 台東区",
       "region": "kanto"
@@ -4814,13 +8504,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.538Z"
+    "updatedAt": "2025-10-07T06:30:32.473Z"
+  },
+  {
+    "store": {
+      "id": "store_5603",
+      "numericId": 5603,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/88",
+      "name": "HUB新宿区役所通り店",
+      "prefecture": "東京都 新宿区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.478Z"
   },
   {
     "store": {
       "id": "store_5604",
       "numericId": 5604,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/89",
       "name": "HUB仙台一番町四丁目店",
       "prefecture": "宮城県 仙台市",
       "region": "tohoku"
@@ -4937,13 +8750,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.543Z"
+    "updatedAt": "2025-10-07T06:30:32.483Z"
+  },
+  {
+    "store": {
+      "id": "store_5605",
+      "numericId": 5605,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/90",
+      "name": "HUB渋谷センター街店",
+      "prefecture": "東京都 渋谷区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.488Z"
   },
   {
     "store": {
       "id": "store_5606",
       "numericId": 5606,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/32",
       "name": "HUB新宿西口大ガード店",
       "prefecture": "東京都 新宿区",
       "region": "kanto"
@@ -5060,13 +8996,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.548Z"
+    "updatedAt": "2025-10-07T06:30:32.495Z"
+  },
+  {
+    "store": {
+      "id": "store_5607",
+      "numericId": 5607,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/94",
+      "name": "HUB梅田茶屋町アプローズ店",
+      "prefecture": "大阪府 大阪市",
+      "region": "kinki"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.501Z"
   },
   {
     "store": {
       "id": "store_5608",
       "numericId": 5608,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/95",
       "name": "HUB新横浜店",
       "prefecture": "神奈川県 横浜市",
       "region": "kanto"
@@ -5183,13 +9242,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.558Z"
+    "updatedAt": "2025-10-07T06:30:32.506Z"
+  },
+  {
+    "store": {
+      "id": "store_5609",
+      "numericId": 5609,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/96",
+      "name": "HUB渋谷道玄坂店",
+      "prefecture": "東京都 渋谷区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.511Z"
   },
   {
     "store": {
       "id": "store_5610",
       "numericId": 5610,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/97",
       "name": "HUB名駅四丁目店",
       "prefecture": "愛知県 名古屋市",
       "region": "chubu"
@@ -5306,13 +9488,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.562Z"
+    "updatedAt": "2025-10-07T06:30:32.517Z"
+  },
+  {
+    "store": {
+      "id": "store_5612",
+      "numericId": 5612,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/99",
+      "name": "HUB津田沼店",
+      "prefecture": "千葉県 船橋市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.521Z"
   },
   {
     "store": {
       "id": "store_5613",
       "numericId": 5613,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/100",
       "name": "HUB新橋銀座口店",
       "prefecture": "東京都 港区",
       "region": "kanto"
@@ -5429,13 +9734,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.566Z"
+    "updatedAt": "2025-10-07T06:30:32.525Z"
+  },
+  {
+    "store": {
+      "id": "store_5614",
+      "numericId": 5614,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/101",
+      "name": "HUB高田馬場駅西店",
+      "prefecture": "東京都 新宿区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.530Z"
   },
   {
     "store": {
       "id": "store_5615",
       "numericId": 5615,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/102",
       "name": "HUB東梅田店",
       "prefecture": "大阪府 大阪市",
       "region": "kinki"
@@ -5552,13 +9980,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.571Z"
+    "updatedAt": "2025-10-07T06:30:32.534Z"
+  },
+  {
+    "store": {
+      "id": "store_5616",
+      "numericId": 5616,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/103",
+      "name": "HUB藤沢店",
+      "prefecture": "神奈川県 藤沢市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.538Z"
   },
   {
     "store": {
       "id": "store_5617",
       "numericId": 5617,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/105",
       "name": "HUB川口店",
       "prefecture": "埼玉県 川口市",
       "region": "kanto"
@@ -5675,13 +10226,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.575Z"
+    "updatedAt": "2025-10-07T06:30:32.545Z"
+  },
+  {
+    "store": {
+      "id": "store_5618",
+      "numericId": 5618,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/106",
+      "name": "HUB立川南口店",
+      "prefecture": "東京都 立川市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.550Z"
   },
   {
     "store": {
       "id": "store_5619",
       "numericId": 5619,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/107",
       "name": "HUB三条木屋町店",
       "prefecture": "京都府 京都市",
       "region": "kinki"
@@ -5798,13 +10472,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.579Z"
+    "updatedAt": "2025-10-07T06:30:32.556Z"
+  },
+  {
+    "store": {
+      "id": "store_5620",
+      "numericId": 5620,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/108",
+      "name": "HUB四谷しんみち通り店",
+      "prefecture": "東京都 新宿区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.562Z"
   },
   {
     "store": {
       "id": "store_5621",
       "numericId": 5621,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/104",
       "name": "HUB新宿靖国通り店",
       "prefecture": "東京都 新宿区",
       "region": "kanto"
@@ -5921,13 +10718,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.583Z"
+    "updatedAt": "2025-10-07T06:30:32.570Z"
+  },
+  {
+    "store": {
+      "id": "store_5622",
+      "numericId": 5622,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/109",
+      "name": "HUB渋谷2号店",
+      "prefecture": "東京都 渋谷区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.574Z"
   },
   {
     "store": {
       "id": "store_5623",
       "numericId": 5623,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/110",
       "name": "HUB上野店",
       "prefecture": "東京都 台東区",
       "region": "kanto"
@@ -6044,13 +10964,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.587Z"
+    "updatedAt": "2025-10-07T06:30:32.578Z"
+  },
+  {
+    "store": {
+      "id": "store_5624",
+      "numericId": 5624,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/111",
+      "name": "HUBチョムチョム秋葉原店",
+      "prefecture": "東京都 千代田区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.583Z"
   },
   {
     "store": {
       "id": "store_5625",
       "numericId": 5625,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/112",
       "name": "HUB西武新宿駅前店",
       "prefecture": "東京都 新宿区",
       "region": "kanto"
@@ -6167,13 +11210,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.591Z"
+    "updatedAt": "2025-10-07T06:30:32.588Z"
+  },
+  {
+    "store": {
+      "id": "store_5626",
+      "numericId": 5626,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/113",
+      "name": "HUBリッチモンドホテル横浜駅前店",
+      "prefecture": "神奈川県 横浜市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.592Z"
   },
   {
     "store": {
       "id": "store_5628",
       "numericId": 5628,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/115",
       "name": "HUB飯田橋東口店",
       "prefecture": "東京都 千代田区",
       "region": "kanto"
@@ -6290,13 +11456,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.595Z"
+    "updatedAt": "2025-10-07T06:30:32.597Z"
+  },
+  {
+    "store": {
+      "id": "store_5630",
+      "numericId": 5630,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/117",
+      "name": "HUB浜松町店",
+      "prefecture": "東京都 港区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.601Z"
   },
   {
     "store": {
       "id": "store_5631",
       "numericId": 5631,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/120",
       "name": "HUBみずほPayPayドーム福岡店",
       "prefecture": "福岡県 福岡市",
       "region": "kyushu"
@@ -6413,13 +11702,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.599Z"
+    "updatedAt": "2025-10-07T06:30:32.605Z"
+  },
+  {
+    "store": {
+      "id": "store_5632",
+      "numericId": 5632,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/122",
+      "name": "HUB+８２池袋ＷＡＣＣＡ店",
+      "prefecture": "東京都 豊島区",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.610Z"
   },
   {
     "store": {
       "id": "store_5633",
       "numericId": 5633,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/123",
       "name": "HUB渋谷3号店",
       "prefecture": "東京都 渋谷区",
       "region": "kanto"
@@ -6536,13 +11948,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.603Z"
+    "updatedAt": "2025-10-07T06:30:32.614Z"
+  },
+  {
+    "store": {
+      "id": "store_5635",
+      "numericId": 5635,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/126",
+      "name": "HUB梅田東通り店",
+      "prefecture": "大阪府 大阪市",
+      "region": "kinki"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.618Z"
   },
   {
     "store": {
       "id": "store_5636",
       "numericId": 5636,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/125",
       "name": "HUB LINKS UMEDA店",
       "prefecture": "大阪府 大阪市",
       "region": "kinki"
@@ -6659,13 +12194,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.608Z"
+    "updatedAt": "2025-10-07T06:30:32.622Z"
+  },
+  {
+    "store": {
+      "id": "store_5637",
+      "numericId": 5637,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/125",
+      "name": "HUB福岡大名店",
+      "prefecture": "福岡県 福岡市",
+      "region": "kyushu"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.626Z"
   },
   {
     "store": {
       "id": "store_5638",
       "numericId": 5638,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/128",
       "name": "HUBGRAMPUS PUB MIRAI TOWER店",
       "prefecture": "愛知県 名古屋市",
       "region": "chubu"
@@ -6782,13 +12440,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.611Z"
+    "updatedAt": "2025-10-07T06:30:32.631Z"
+  },
+  {
+    "store": {
+      "id": "store_5639",
+      "numericId": 5639,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/130",
+      "name": "HUB桜木町クロスゲート店",
+      "prefecture": "神奈川県 横浜市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.635Z"
   },
   {
     "store": {
       "id": "store_5640",
       "numericId": 5640,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/131",
       "name": "HUB羽田空港第2ターミナル店",
       "prefecture": "東京都 大田区",
       "region": "kanto"
@@ -6905,13 +12686,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.615Z"
+    "updatedAt": "2025-10-07T06:30:32.639Z"
+  },
+  {
+    "store": {
+      "id": "store_5641",
+      "numericId": 5641,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/132",
+      "name": "HUB COCONO SUSUKINO店",
+      "prefecture": "北海道 札幌市",
+      "region": "hokkaido"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.643Z"
   },
   {
     "store": {
       "id": "store_5642",
       "numericId": 5642,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/133",
       "name": "HUB博多筑紫口デイトスアネックス店",
       "prefecture": "福岡県 福岡市",
       "region": "kyushu"
@@ -7028,13 +12932,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.619Z"
+    "updatedAt": "2025-10-07T06:30:32.647Z"
+  },
+  {
+    "store": {
+      "id": "store_5643",
+      "numericId": 5643,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/134",
+      "name": "HUBEchigo Beer PUB CoCoLo新潟店",
+      "prefecture": "新潟県 新潟市",
+      "region": "chubu"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.652Z"
   },
   {
     "store": {
       "id": "store_5644",
       "numericId": 5644,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/135",
       "name": "HUBエキマルシェ大阪ウメスト店",
       "prefecture": "大阪府 大阪市",
       "region": "kinki"
@@ -7151,13 +13178,136 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.624Z"
+    "updatedAt": "2025-10-07T06:30:32.656Z"
+  },
+  {
+    "store": {
+      "id": "store_5645",
+      "numericId": 5645,
+      "url": "https://www.pub-hub.com/index.php/shop/detail/136",
+      "name": "HUB JEF UNITED PUB ペリエ千葉エキナカ店",
+      "prefecture": "千葉県 千葉市",
+      "region": "kanto"
+    },
+    "range": {
+      "from": "2025-10-07",
+      "days": 10,
+      "tz": "Asia/Tokyo",
+      "rollover_at": "07:00"
+    },
+    "days": [
+      {
+        "date": "2025-10-07",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-08",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-09",
+        "weekday": "木",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-10",
+        "weekday": "金",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-11",
+        "weekday": "土",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-12",
+        "weekday": "日",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-13",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-14",
+        "weekday": "火",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "26:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-15",
+        "weekday": "水",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "28:00"
+          }
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "weekday": "木",
+        "status": "holiday"
+      }
+    ],
+    "updatedAt": "2025-10-07T06:30:32.661Z"
   },
   {
     "store": {
       "id": "store_5647",
       "numericId": 5647,
-      "url": "",
+      "url": "https://www.pub-hub.com/index.php/shop/detail/137",
       "name": "HUBアミュプラザみやざき店",
       "prefecture": "宮崎県 宮崎市",
       "region": "kyushu"
@@ -7274,6 +13424,6 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2025-10-07T04:52:13.628Z"
+    "updatedAt": "2025-10-07T06:30:32.666Z"
   }
 ]
