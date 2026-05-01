@@ -11,23 +11,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "14:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -126,9 +115,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "14:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.295Z"
+    "updatedAt": "2026-05-01T22:39:56.128Z"
   },
   {
     "store": {
@@ -142,23 +142,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -257,9 +246,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.313Z"
+    "updatedAt": "2026-05-01T22:39:56.178Z"
   },
   {
     "store": {
@@ -273,23 +273,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "12:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -388,9 +377,20 @@
             "close": "23:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "12:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.332Z"
+    "updatedAt": "2026-05-01T22:39:56.192Z"
   },
   {
     "store": {
@@ -404,17 +404,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "holiday"
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -459,9 +454,14 @@
         "date": "2026-05-10",
         "weekday": "日",
         "status": "holiday"
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "holiday"
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.333Z"
+    "updatedAt": "2026-05-01T22:39:56.192Z"
   },
   {
     "store": {
@@ -475,23 +475,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "26:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -590,9 +579,20 @@
             "close": "26:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.347Z"
+    "updatedAt": "2026-05-01T22:39:56.254Z"
   },
   {
     "store": {
@@ -606,23 +606,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "26:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -721,9 +710,20 @@
             "close": "24:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.363Z"
+    "updatedAt": "2026-05-01T22:39:56.282Z"
   },
   {
     "store": {
@@ -737,23 +737,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "28:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -852,9 +841,20 @@
             "close": "26:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "25:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.377Z"
+    "updatedAt": "2026-05-01T22:39:56.299Z"
   },
   {
     "store": {
@@ -868,23 +868,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -983,9 +972,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.392Z"
+    "updatedAt": "2026-05-01T22:39:56.313Z"
   },
   {
     "store": {
@@ -999,23 +999,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "18:00",
-            "close": "23:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -1114,9 +1103,20 @@
             "close": "22:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "18:00",
+            "close": "23:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.412Z"
+    "updatedAt": "2026-05-01T22:39:56.494Z"
   },
   {
     "store": {
@@ -1130,23 +1130,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "26:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -1245,9 +1234,20 @@
             "close": "23:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.427Z"
+    "updatedAt": "2026-05-01T22:39:56.579Z"
   },
   {
     "store": {
@@ -1261,23 +1261,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "26:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -1376,9 +1365,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.439Z"
+    "updatedAt": "2026-05-01T22:39:56.668Z"
   },
   {
     "store": {
@@ -1392,23 +1392,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "24:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -1507,9 +1496,20 @@
             "close": "23:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.450Z"
+    "updatedAt": "2026-05-01T22:39:56.717Z"
   },
   {
     "store": {
@@ -1523,23 +1523,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -1638,9 +1627,20 @@
             "close": "23:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "25:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.460Z"
+    "updatedAt": "2026-05-01T22:39:56.730Z"
   },
   {
     "store": {
@@ -1654,23 +1654,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -1769,9 +1758,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "25:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.470Z"
+    "updatedAt": "2026-05-01T22:39:56.743Z"
   },
   {
     "store": {
@@ -1785,23 +1785,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "27:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -1900,9 +1889,20 @@
             "close": "25:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "18:00",
+            "close": "26:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.484Z"
+    "updatedAt": "2026-05-01T22:39:56.754Z"
   },
   {
     "store": {
@@ -1916,23 +1916,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -2031,9 +2020,20 @@
             "close": "22:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.500Z"
+    "updatedAt": "2026-05-01T22:39:56.769Z"
   },
   {
     "store": {
@@ -2047,23 +2047,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "12:00",
-            "close": "24:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -2132,9 +2121,20 @@
         "date": "2026-05-10",
         "weekday": "日",
         "status": "holiday"
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "12:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.510Z"
+    "updatedAt": "2026-05-01T22:39:56.773Z"
   },
   {
     "store": {
@@ -2148,23 +2148,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "12:00",
-            "close": "23:30"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -2245,9 +2234,20 @@
             "close": "19:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "12:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.518Z"
+    "updatedAt": "2026-05-01T22:39:56.825Z"
   },
   {
     "store": {
@@ -2261,23 +2261,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "26:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -2380,9 +2369,20 @@
             "close": "23:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "25:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.533Z"
+    "updatedAt": "2026-05-01T22:39:56.893Z"
   },
   {
     "store": {
@@ -2396,23 +2396,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -2511,9 +2500,20 @@
             "close": "23:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.545Z"
+    "updatedAt": "2026-05-01T22:39:56.905Z"
   },
   {
     "store": {
@@ -2527,23 +2527,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "24:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -2642,9 +2631,20 @@
             "close": "23:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.556Z"
+    "updatedAt": "2026-05-01T22:39:57.081Z"
   },
   {
     "store": {
@@ -2658,23 +2658,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "11:00",
-            "close": "22:30"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -2773,9 +2762,20 @@
             "close": "22:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "11:00",
+            "close": "22:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.571Z"
+    "updatedAt": "2026-05-01T22:39:57.315Z"
   },
   {
     "store": {
@@ -2789,23 +2789,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "14:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -2904,9 +2893,20 @@
             "close": "23:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "14:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.586Z"
+    "updatedAt": "2026-05-01T22:39:57.482Z"
   },
   {
     "store": {
@@ -2920,23 +2920,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -3005,9 +2994,20 @@
         "date": "2026-05-10",
         "weekday": "日",
         "status": "holiday"
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.593Z"
+    "updatedAt": "2026-05-01T22:39:57.494Z"
   },
   {
     "store": {
@@ -3021,23 +3021,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "23:30"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -3112,9 +3101,20 @@
         "date": "2026-05-10",
         "weekday": "日",
         "status": "holiday"
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.604Z"
+    "updatedAt": "2026-05-01T22:39:57.502Z"
   },
   {
     "store": {
@@ -3128,23 +3128,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "15:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -3243,9 +3232,20 @@
             "close": "25:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "25:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.617Z"
+    "updatedAt": "2026-05-01T22:39:57.517Z"
   },
   {
     "store": {
@@ -3259,23 +3259,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -3374,9 +3363,20 @@
             "close": "26:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "25:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.634Z"
+    "updatedAt": "2026-05-01T22:39:57.577Z"
   },
   {
     "store": {
@@ -3390,23 +3390,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "15:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -3505,9 +3494,20 @@
             "close": "23:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "15:00",
+            "close": "23:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.649Z"
+    "updatedAt": "2026-05-01T22:39:57.636Z"
   },
   {
     "store": {
@@ -3521,23 +3521,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "11:30",
-            "close": "23:30"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -3636,9 +3625,20 @@
             "close": "23:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "11:30",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.662Z"
+    "updatedAt": "2026-05-01T22:39:57.650Z"
   },
   {
     "store": {
@@ -3652,23 +3652,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "11:30",
-            "close": "24:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -3767,9 +3756,20 @@
             "close": "23:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "11:30",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.679Z"
+    "updatedAt": "2026-05-01T22:39:57.663Z"
   },
   {
     "store": {
@@ -3783,23 +3783,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "21:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -3874,9 +3863,14 @@
         "date": "2026-05-10",
         "weekday": "日",
         "status": "holiday"
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "holiday"
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.688Z"
+    "updatedAt": "2026-05-01T22:39:57.671Z"
   },
   {
     "store": {
@@ -3890,23 +3884,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "11:00",
-            "close": "24:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -4005,9 +3988,20 @@
             "close": "23:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "11:00",
+            "close": "23:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.706Z"
+    "updatedAt": "2026-05-01T22:39:57.689Z"
   },
   {
     "store": {
@@ -4021,23 +4015,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "12:00",
-            "close": "24:30"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -4136,9 +4119,20 @@
             "close": "23:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "12:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.721Z"
+    "updatedAt": "2026-05-01T22:39:57.780Z"
   },
   {
     "store": {
@@ -4152,23 +4146,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -4267,9 +4250,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.737Z"
+    "updatedAt": "2026-05-01T22:39:57.930Z"
   },
   {
     "store": {
@@ -4283,23 +4277,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "28:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -4398,9 +4381,20 @@
             "close": "26:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "25:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.751Z"
+    "updatedAt": "2026-05-01T22:39:58.024Z"
   },
   {
     "store": {
@@ -4414,23 +4408,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "24:30"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -4499,9 +4482,20 @@
         "date": "2026-05-10",
         "weekday": "日",
         "status": "holiday"
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.758Z"
+    "updatedAt": "2026-05-01T22:39:58.090Z"
   },
   {
     "store": {
@@ -4515,23 +4509,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "12:00",
-            "close": "23:30"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -4630,9 +4613,20 @@
             "close": "23:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "12:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.776Z"
+    "updatedAt": "2026-05-01T22:39:58.107Z"
   },
   {
     "store": {
@@ -4646,23 +4640,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "24:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -4731,9 +4714,20 @@
         "date": "2026-05-10",
         "weekday": "日",
         "status": "holiday"
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.783Z"
+    "updatedAt": "2026-05-01T22:39:58.114Z"
   },
   {
     "store": {
@@ -4747,23 +4741,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "12:00",
-            "close": "24:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -4862,9 +4845,20 @@
             "close": "23:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "12:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.797Z"
+    "updatedAt": "2026-05-01T22:39:58.130Z"
   },
   {
     "store": {
@@ -4878,23 +4872,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -4975,9 +4958,20 @@
             "close": "22:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.807Z"
+    "updatedAt": "2026-05-01T22:39:58.139Z"
   },
   {
     "store": {
@@ -4991,23 +4985,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "24:30"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -5106,9 +5089,20 @@
             "close": "23:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.820Z"
+    "updatedAt": "2026-05-01T22:39:58.190Z"
   },
   {
     "store": {
@@ -5122,23 +5116,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "24:30"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -5237,9 +5220,20 @@
             "close": "23:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.838Z"
+    "updatedAt": "2026-05-01T22:39:58.259Z"
   },
   {
     "store": {
@@ -5253,23 +5247,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -5368,9 +5351,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.855Z"
+    "updatedAt": "2026-05-01T22:39:58.283Z"
   },
   {
     "store": {
@@ -5384,23 +5378,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -5499,9 +5482,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.871Z"
+    "updatedAt": "2026-05-01T22:39:58.304Z"
   },
   {
     "store": {
@@ -5515,23 +5509,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -5630,9 +5613,20 @@
             "close": "26:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.889Z"
+    "updatedAt": "2026-05-01T22:39:58.379Z"
   },
   {
     "store": {
@@ -5646,23 +5640,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "26:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -5761,9 +5744,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.906Z"
+    "updatedAt": "2026-05-01T22:39:58.395Z"
   },
   {
     "store": {
@@ -5777,23 +5771,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "24:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -5892,9 +5875,20 @@
             "close": "23:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.922Z"
+    "updatedAt": "2026-05-01T22:39:58.411Z"
   },
   {
     "store": {
@@ -5908,23 +5902,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "11:30",
-            "close": "24:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -6023,9 +6006,20 @@
             "close": "23:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "12:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.935Z"
+    "updatedAt": "2026-05-01T22:39:58.683Z"
   },
   {
     "store": {
@@ -6039,23 +6033,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "28:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -6154,9 +6137,20 @@
             "close": "25:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "26:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.951Z"
+    "updatedAt": "2026-05-01T22:39:58.790Z"
   },
   {
     "store": {
@@ -6170,23 +6164,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "26:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -6285,9 +6268,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.965Z"
+    "updatedAt": "2026-05-01T22:39:58.814Z"
   },
   {
     "store": {
@@ -6301,23 +6295,12 @@
       "region": "tohoku"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -6416,9 +6399,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:07.985Z"
+    "updatedAt": "2026-05-01T22:39:59.078Z"
   },
   {
     "store": {
@@ -6432,23 +6426,12 @@
       "region": "tohoku"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:30",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -6547,9 +6530,20 @@
             "close": "23:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:30",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.001Z"
+    "updatedAt": "2026-05-01T22:39:59.299Z"
   },
   {
     "store": {
@@ -6563,23 +6557,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "26:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -6678,9 +6661,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.015Z"
+    "updatedAt": "2026-05-01T22:39:59.334Z"
   },
   {
     "store": {
@@ -6694,23 +6688,12 @@
       "region": "chubu"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "12:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -6809,9 +6792,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "12:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.030Z"
+    "updatedAt": "2026-05-01T22:39:59.354Z"
   },
   {
     "store": {
@@ -6825,23 +6819,12 @@
       "region": "chubu"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "11:00",
-            "close": "24:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -6940,9 +6923,20 @@
             "close": "23:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "11:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.048Z"
+    "updatedAt": "2026-05-01T22:39:59.386Z"
   },
   {
     "store": {
@@ -6956,23 +6950,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "11:30",
-            "close": "23:30"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -7071,9 +7054,20 @@
             "close": "23:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "11:30",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.060Z"
+    "updatedAt": "2026-05-01T22:39:59.510Z"
   },
   {
     "store": {
@@ -7087,23 +7081,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -7202,9 +7185,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.079Z"
+    "updatedAt": "2026-05-01T22:39:59.531Z"
   },
   {
     "store": {
@@ -7218,23 +7212,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "26:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -7337,9 +7320,20 @@
             "close": "23:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.095Z"
+    "updatedAt": "2026-05-01T22:39:59.665Z"
   },
   {
     "store": {
@@ -7353,23 +7347,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -7468,9 +7451,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.111Z"
+    "updatedAt": "2026-05-01T22:39:59.832Z"
   },
   {
     "store": {
@@ -7484,23 +7478,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "24:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -7599,9 +7582,20 @@
             "close": "23:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.127Z"
+    "updatedAt": "2026-05-01T22:39:59.886Z"
   },
   {
     "store": {
@@ -7615,23 +7609,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "11:00",
-            "close": "22:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -7730,9 +7713,20 @@
             "close": "22:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "11:00",
+            "close": "22:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.141Z"
+    "updatedAt": "2026-05-01T22:39:59.907Z"
   },
   {
     "store": {
@@ -7746,23 +7740,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -7861,9 +7844,20 @@
             "close": "24:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.151Z"
+    "updatedAt": "2026-05-01T22:39:59.979Z"
   },
   {
     "store": {
@@ -7877,23 +7871,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -7992,9 +7975,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.168Z"
+    "updatedAt": "2026-05-01T22:39:59.991Z"
   },
   {
     "store": {
@@ -8008,23 +8002,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -8123,9 +8106,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.183Z"
+    "updatedAt": "2026-05-01T22:40:00.002Z"
   },
   {
     "store": {
@@ -8139,23 +8133,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "26:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -8254,9 +8237,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.198Z"
+    "updatedAt": "2026-05-01T22:40:00.014Z"
   },
   {
     "store": {
@@ -8270,23 +8264,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -8385,9 +8368,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.209Z"
+    "updatedAt": "2026-05-01T22:40:00.026Z"
   },
   {
     "store": {
@@ -8401,23 +8395,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -8516,9 +8499,20 @@
             "close": "23:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.220Z"
+    "updatedAt": "2026-05-01T22:40:00.039Z"
   },
   {
     "store": {
@@ -8532,23 +8526,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "26:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -8647,9 +8630,20 @@
             "close": "25:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "25:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.232Z"
+    "updatedAt": "2026-05-01T22:40:00.053Z"
   },
   {
     "store": {
@@ -8663,23 +8657,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "26:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -8778,9 +8761,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.244Z"
+    "updatedAt": "2026-05-01T22:40:00.069Z"
   },
   {
     "store": {
@@ -8794,23 +8788,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -8909,9 +8892,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.255Z"
+    "updatedAt": "2026-05-01T22:40:00.096Z"
   },
   {
     "store": {
@@ -8925,23 +8919,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -9040,9 +9023,20 @@
             "close": "23:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.266Z"
+    "updatedAt": "2026-05-01T22:40:00.185Z"
   },
   {
     "store": {
@@ -9056,23 +9050,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -9171,9 +9154,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.279Z"
+    "updatedAt": "2026-05-01T22:40:00.364Z"
   },
   {
     "store": {
@@ -9187,23 +9181,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "24:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -9302,9 +9285,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.293Z"
+    "updatedAt": "2026-05-01T22:40:00.378Z"
   },
   {
     "store": {
@@ -9318,23 +9312,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -9433,9 +9416,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.308Z"
+    "updatedAt": "2026-05-01T22:40:00.394Z"
   },
   {
     "store": {
@@ -9449,23 +9443,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -9564,9 +9547,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.321Z"
+    "updatedAt": "2026-05-01T22:40:00.406Z"
   },
   {
     "store": {
@@ -9580,23 +9574,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -9699,9 +9682,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.334Z"
+    "updatedAt": "2026-05-01T22:40:00.419Z"
   },
   {
     "store": {
@@ -9715,23 +9709,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "24:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -9830,9 +9813,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.347Z"
+    "updatedAt": "2026-05-01T22:40:00.431Z"
   },
   {
     "store": {
@@ -9846,23 +9840,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -9961,9 +9944,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.361Z"
+    "updatedAt": "2026-05-01T22:40:00.443Z"
   },
   {
     "store": {
@@ -9977,23 +9971,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "11:00",
-            "close": "23:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -10092,9 +10075,20 @@
             "close": "23:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "11:00",
+            "close": "23:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.388Z"
+    "updatedAt": "2026-05-01T22:40:00.609Z"
   },
   {
     "store": {
@@ -10108,23 +10102,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "24:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -10223,9 +10206,20 @@
             "close": "23:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "19:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.406Z"
+    "updatedAt": "2026-05-01T22:40:00.662Z"
   },
   {
     "store": {
@@ -10239,23 +10233,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -10354,9 +10337,20 @@
             "close": "23:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.420Z"
+    "updatedAt": "2026-05-01T22:40:00.673Z"
   },
   {
     "store": {
@@ -10370,23 +10364,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "12:00",
-            "close": "24:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -10485,9 +10468,20 @@
             "close": "23:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "12:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.436Z"
+    "updatedAt": "2026-05-01T22:40:00.685Z"
   },
   {
     "store": {
@@ -10501,23 +10495,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -10616,9 +10599,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.449Z"
+    "updatedAt": "2026-05-01T22:40:00.698Z"
   },
   {
     "store": {
@@ -10632,23 +10626,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "23:30"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -10747,9 +10730,20 @@
             "close": "23:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.462Z"
+    "updatedAt": "2026-05-01T22:40:00.745Z"
   },
   {
     "store": {
@@ -10763,23 +10757,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "12:00",
-            "close": "24:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -10878,9 +10861,20 @@
             "close": "23:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "12:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.474Z"
+    "updatedAt": "2026-05-01T22:40:00.782Z"
   },
   {
     "store": {
@@ -10894,23 +10888,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "12:00",
-            "close": "23:30"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -10967,9 +10950,20 @@
         "date": "2026-05-10",
         "weekday": "日",
         "status": "holiday"
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "12:00",
+            "close": "23:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.477Z"
+    "updatedAt": "2026-05-01T22:40:00.898Z"
   },
   {
     "store": {
@@ -10983,23 +10977,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "26:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -11098,9 +11081,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "25:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.490Z"
+    "updatedAt": "2026-05-01T22:40:00.928Z"
   },
   {
     "store": {
@@ -11114,23 +11108,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "23:30"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -11233,9 +11216,20 @@
             "close": "23:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.504Z"
+    "updatedAt": "2026-05-01T22:40:00.959Z"
   },
   {
     "store": {
@@ -11249,23 +11243,12 @@
       "region": "kanto"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "26:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -11364,9 +11347,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "25:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.516Z"
+    "updatedAt": "2026-05-01T22:40:00.970Z"
   },
   {
     "store": {
@@ -11380,23 +11374,12 @@
       "region": "kinki"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -11495,9 +11478,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.529Z"
+    "updatedAt": "2026-05-01T22:40:00.983Z"
   },
   {
     "store": {
@@ -11511,23 +11505,12 @@
       "region": "kinki"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -11626,9 +11609,20 @@
             "close": "23:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.541Z"
+    "updatedAt": "2026-05-01T22:40:00.995Z"
   },
   {
     "store": {
@@ -11642,23 +11636,12 @@
       "region": "kinki"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "15:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -11757,9 +11740,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.553Z"
+    "updatedAt": "2026-05-01T22:40:01.009Z"
   },
   {
     "store": {
@@ -11773,23 +11767,12 @@
       "region": "kinki"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "11:00",
-            "close": "23:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -11888,9 +11871,20 @@
             "close": "23:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "11:00",
+            "close": "23:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.565Z"
+    "updatedAt": "2026-05-01T22:40:01.068Z"
   },
   {
     "store": {
@@ -11904,23 +11898,12 @@
       "region": "kinki"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "11:30",
-            "close": "23:30"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -12019,9 +12002,20 @@
             "close": "23:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "11:30",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.578Z"
+    "updatedAt": "2026-05-01T22:40:01.132Z"
   },
   {
     "store": {
@@ -12035,23 +12029,12 @@
       "region": "kyushu"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "11:00",
-            "close": "23:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -12150,9 +12133,20 @@
             "close": "23:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "11:00",
+            "close": "23:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.588Z"
+    "updatedAt": "2026-05-01T22:40:01.144Z"
   },
   {
     "store": {
@@ -12166,23 +12160,12 @@
       "region": "kinki"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -12281,9 +12264,20 @@
             "close": "23:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.601Z"
+    "updatedAt": "2026-05-01T22:40:01.156Z"
   },
   {
     "store": {
@@ -12297,23 +12291,12 @@
       "region": "kinki"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "24:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -12412,9 +12395,20 @@
             "close": "23:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.614Z"
+    "updatedAt": "2026-05-01T22:40:01.167Z"
   },
   {
     "store": {
@@ -12428,23 +12422,12 @@
       "region": "kinki"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "23:30"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -12543,9 +12526,20 @@
             "close": "23:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "23:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.627Z"
+    "updatedAt": "2026-05-01T22:40:01.182Z"
   },
   {
     "store": {
@@ -12559,23 +12553,12 @@
       "region": "kinki"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "26:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -12674,9 +12657,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.643Z"
+    "updatedAt": "2026-05-01T22:40:01.207Z"
   },
   {
     "store": {
@@ -12690,23 +12684,12 @@
       "region": "kinki"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "26:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -12805,9 +12788,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.656Z"
+    "updatedAt": "2026-05-01T22:40:01.219Z"
   },
   {
     "store": {
@@ -12821,23 +12815,12 @@
       "region": "kinki"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "11:00",
-            "close": "24:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -12936,9 +12919,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "11:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.671Z"
+    "updatedAt": "2026-05-01T22:40:01.229Z"
   },
   {
     "store": {
@@ -12952,23 +12946,12 @@
       "region": "kinki"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "11:00",
-            "close": "26:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -13067,9 +13050,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "11:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.687Z"
+    "updatedAt": "2026-05-01T22:40:01.291Z"
   },
   {
     "store": {
@@ -13083,23 +13077,12 @@
       "region": "kinki"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "12:00",
-            "close": "23:30"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -13198,9 +13181,20 @@
             "close": "23:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "12:00",
+            "close": "23:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.705Z"
+    "updatedAt": "2026-05-01T22:40:01.302Z"
   },
   {
     "store": {
@@ -13214,23 +13208,12 @@
       "region": "chubu"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "27:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -13329,9 +13312,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.719Z"
+    "updatedAt": "2026-05-01T22:40:01.314Z"
   },
   {
     "store": {
@@ -13345,23 +13339,12 @@
       "region": "chubu"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "12:00",
-            "close": "26:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -13460,9 +13443,20 @@
             "close": "25:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "12:00",
+            "close": "25:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.740Z"
+    "updatedAt": "2026-05-01T22:40:01.354Z"
   },
   {
     "store": {
@@ -13476,23 +13470,12 @@
       "region": "kinki"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "12:00",
-            "close": "24:30"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -13591,9 +13574,20 @@
             "close": "23:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "12:00",
+            "close": "23:30"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.752Z"
+    "updatedAt": "2026-05-01T22:40:01.463Z"
   },
   {
     "store": {
@@ -13607,23 +13601,12 @@
       "region": "chubu"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "16:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -13722,9 +13705,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.764Z"
+    "updatedAt": "2026-05-01T22:40:01.474Z"
   },
   {
     "store": {
@@ -13738,23 +13732,12 @@
       "region": "kinki"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -13853,9 +13836,20 @@
             "close": "27:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.781Z"
+    "updatedAt": "2026-05-01T22:40:01.487Z"
   },
   {
     "store": {
@@ -13869,23 +13863,12 @@
       "region": "chubu"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "11:30",
-            "close": "23:30"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -13984,9 +13967,20 @@
             "close": "23:30"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "12:00",
+            "close": "23:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.795Z"
+    "updatedAt": "2026-05-01T22:40:01.499Z"
   },
   {
     "store": {
@@ -14000,23 +13994,12 @@
       "region": "hokkaido"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "11:00",
-            "close": "24:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -14115,9 +14098,20 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "11:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.809Z"
+    "updatedAt": "2026-05-01T22:40:01.510Z"
   },
   {
     "store": {
@@ -14131,23 +14125,12 @@
       "region": "kyushu"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "18:00",
-            "close": "23:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -14222,9 +14205,14 @@
             "close": "19:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "holiday"
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.817Z"
+    "updatedAt": "2026-05-01T22:40:01.521Z"
   },
   {
     "store": {
@@ -14238,23 +14226,12 @@
       "region": "kyushu"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "17:00",
-            "close": "27:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -14353,9 +14330,20 @@
             "close": "25:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "25:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.829Z"
+    "updatedAt": "2026-05-01T22:40:01.572Z"
   },
   {
     "store": {
@@ -14369,23 +14357,12 @@
       "region": "kyushu"
     },
     "range": {
-      "from": "2026-05-01",
+      "from": "2026-05-02",
       "days": 10,
       "tz": "Asia/Tokyo",
       "rollover_at": "07:00"
     },
     "days": [
-      {
-        "date": "2026-05-01",
-        "weekday": "金",
-        "status": "open",
-        "hours": [
-          {
-            "open": "11:00",
-            "close": "25:00"
-          }
-        ]
-      },
       {
         "date": "2026-05-02",
         "weekday": "土",
@@ -14484,8 +14461,19 @@
             "close": "24:00"
           }
         ]
+      },
+      {
+        "date": "2026-05-11",
+        "weekday": "月",
+        "status": "open",
+        "hours": [
+          {
+            "open": "11:00",
+            "close": "24:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-05-01T06:59:08.844Z"
+    "updatedAt": "2026-05-01T22:40:01.587Z"
   }
 ]
