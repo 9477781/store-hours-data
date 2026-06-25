@@ -90,25 +90,49 @@
       {
         "date": "2026-07-01",
         "weekday": "水",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "14:00",
+            "close": "27:00"
+          }
+        ]
       },
       {
         "date": "2026-07-02",
         "weekday": "木",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "14:00",
+            "close": "24:00"
+          }
+        ]
       },
       {
         "date": "2026-07-03",
         "weekday": "金",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "11:30",
+            "close": "25:00"
+          }
+        ]
       },
       {
         "date": "2026-07-04",
         "weekday": "土",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "10:00",
+            "close": "25:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.326Z"
+    "updatedAt": "2026-06-25T00:49:13.466Z"
   },
   {
     "store": {
@@ -201,25 +225,49 @@
       {
         "date": "2026-07-01",
         "weekday": "水",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       },
       {
         "date": "2026-07-02",
         "weekday": "木",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       },
       {
         "date": "2026-07-03",
         "weekday": "金",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "25:00"
+          }
+        ]
       },
       {
         "date": "2026-07-04",
         "weekday": "土",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "15:00",
+            "close": "25:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.328Z"
+    "updatedAt": "2026-06-25T00:49:13.466Z"
   },
   {
     "store": {
@@ -312,25 +360,49 @@
       {
         "date": "2026-07-01",
         "weekday": "水",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "12:00",
+            "close": "23:30"
+          }
+        ]
       },
       {
         "date": "2026-07-02",
         "weekday": "木",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "12:00",
+            "close": "23:30"
+          }
+        ]
       },
       {
         "date": "2026-07-03",
         "weekday": "金",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "12:00",
+            "close": "25:00"
+          }
+        ]
       },
       {
         "date": "2026-07-04",
         "weekday": "土",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "12:00",
+            "close": "25:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.328Z"
+    "updatedAt": "2026-06-25T00:49:13.467Z"
   },
   {
     "store": {
@@ -356,6 +428,10 @@
         "status": "open",
         "hours": [
           {
+            "open": "06:30",
+            "close": "12:00"
+          },
+          {
             "open": "17:00",
             "close": "24:00"
           }
@@ -372,7 +448,7 @@
           },
           {
             "open": "17:00",
-            "close": "26:00"
+            "close": "28:00"
           }
         ]
       },
@@ -382,8 +458,12 @@
         "status": "open",
         "hours": [
           {
-            "open": "15:00",
-            "close": "26:00"
+            "open": "04:00",
+            "close": "06:00"
+          },
+          {
+            "open": "08:30",
+            "close": "27:00"
           }
         ]
       },
@@ -392,6 +472,10 @@
         "weekday": "日",
         "status": "open",
         "hours": [
+          {
+            "open": "05:30",
+            "close": "13:00"
+          },
           {
             "open": "15:00",
             "close": "24:00"
@@ -404,8 +488,12 @@
         "status": "open",
         "hours": [
           {
+            "open": "04:00",
+            "close": "06:00"
+          },
+          {
             "open": "17:00",
-            "close": "24:00"
+            "close": "28:00"
           }
         ]
       },
@@ -415,33 +503,81 @@
         "status": "open",
         "hours": [
           {
-            "open": "17:00",
-            "close": "24:00"
+            "open": "04:00",
+            "close": "07:30"
+          },
+          {
+            "open": "09:30",
+            "close": "12:00"
           }
         ]
       },
       {
         "date": "2026-07-01",
         "weekday": "水",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "05:30",
+            "close": "12:00"
+          },
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
       },
       {
         "date": "2026-07-02",
         "weekday": "木",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "04:00",
+            "close": "11:00"
+          },
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       },
       {
         "date": "2026-07-03",
         "weekday": "金",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "04:00",
+            "close": "14:00"
+          },
+          {
+            "open": "17:00",
+            "close": "28:00"
+          }
+        ]
       },
       {
         "date": "2026-07-04",
         "weekday": "土",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "04:00",
+            "close": "05:00"
+          },
+          {
+            "open": "06:30",
+            "close": "12:30"
+          },
+          {
+            "open": "15:00",
+            "close": "28:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.328Z"
+    "updatedAt": "2026-06-25T00:49:13.467Z"
   },
   {
     "store": {
@@ -534,25 +670,49 @@
       {
         "date": "2026-07-01",
         "weekday": "水",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:30"
+          }
+        ]
       },
       {
         "date": "2026-07-02",
         "weekday": "木",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:30"
+          }
+        ]
       },
       {
         "date": "2026-07-03",
         "weekday": "金",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "26:00"
+          }
+        ]
       },
       {
         "date": "2026-07-04",
         "weekday": "土",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "26:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.328Z"
+    "updatedAt": "2026-06-25T00:49:13.467Z"
   },
   {
     "store": {
@@ -645,25 +805,49 @@
       {
         "date": "2026-07-01",
         "weekday": "水",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "27:00"
+          }
+        ]
       },
       {
         "date": "2026-07-02",
         "weekday": "木",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "16:00",
+            "close": "30:00"
+          }
+        ]
       },
       {
         "date": "2026-07-03",
         "weekday": "金",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "11:30",
+            "close": "29:00"
+          }
+        ]
       },
       {
         "date": "2026-07-04",
         "weekday": "土",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "15:00",
+            "close": "32:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.329Z"
+    "updatedAt": "2026-06-25T00:49:13.467Z"
   },
   {
     "store": {
@@ -756,25 +940,49 @@
       {
         "date": "2026-07-01",
         "weekday": "水",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       },
       {
         "date": "2026-07-02",
         "weekday": "木",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "24:00"
+          }
+        ]
       },
       {
         "date": "2026-07-03",
         "weekday": "金",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "25:00"
+          }
+        ]
       },
       {
         "date": "2026-07-04",
         "weekday": "土",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "14:00",
+            "close": "25:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.329Z"
+    "updatedAt": "2026-06-25T00:49:13.467Z"
   },
   {
     "store": {
@@ -905,7 +1113,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.329Z"
+    "updatedAt": "2026-06-25T00:49:13.467Z"
   },
   {
     "store": {
@@ -1048,7 +1256,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.329Z"
+    "updatedAt": "2026-06-25T00:49:13.468Z"
   },
   {
     "store": {
@@ -1183,7 +1391,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.329Z"
+    "updatedAt": "2026-06-25T00:49:13.468Z"
   },
   {
     "store": {
@@ -1318,7 +1526,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.329Z"
+    "updatedAt": "2026-06-25T00:49:13.468Z"
   },
   {
     "store": {
@@ -1453,7 +1661,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.329Z"
+    "updatedAt": "2026-06-25T00:49:13.468Z"
   },
   {
     "store": {
@@ -1588,7 +1796,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.329Z"
+    "updatedAt": "2026-06-25T00:49:13.468Z"
   },
   {
     "store": {
@@ -1727,7 +1935,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.329Z"
+    "updatedAt": "2026-06-25T00:49:13.468Z"
   },
   {
     "store": {
@@ -1866,7 +2074,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.329Z"
+    "updatedAt": "2026-06-25T00:49:13.468Z"
   },
   {
     "store": {
@@ -1991,7 +2199,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.330Z"
+    "updatedAt": "2026-06-25T00:49:13.469Z"
   },
   {
     "store": {
@@ -2120,7 +2328,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.330Z"
+    "updatedAt": "2026-06-25T00:49:13.469Z"
   },
   {
     "store": {
@@ -2259,7 +2467,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.330Z"
+    "updatedAt": "2026-06-25T00:49:13.469Z"
   },
   {
     "store": {
@@ -2394,7 +2602,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.330Z"
+    "updatedAt": "2026-06-25T00:49:13.470Z"
   },
   {
     "store": {
@@ -2533,7 +2741,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.330Z"
+    "updatedAt": "2026-06-25T00:49:13.470Z"
   },
   {
     "store": {
@@ -2664,7 +2872,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.330Z"
+    "updatedAt": "2026-06-25T00:49:13.470Z"
   },
   {
     "store": {
@@ -2799,7 +3007,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.331Z"
+    "updatedAt": "2026-06-25T00:49:13.470Z"
   },
   {
     "store": {
@@ -2934,7 +3142,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.331Z"
+    "updatedAt": "2026-06-25T00:49:13.471Z"
   },
   {
     "store": {
@@ -3063,7 +3271,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.331Z"
+    "updatedAt": "2026-06-25T00:49:13.471Z"
   },
   {
     "store": {
@@ -3156,7 +3364,7 @@
             "close": "08:00"
           },
           {
-            "open": "15:00",
+            "open": "16:00",
             "close": "25:00"
           }
         ]
@@ -3164,25 +3372,65 @@
       {
         "date": "2026-07-01",
         "weekday": "水",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "05:30",
+            "close": "08:30"
+          },
+          {
+            "open": "16:00",
+            "close": "28:00"
+          }
+        ]
       },
       {
         "date": "2026-07-02",
         "weekday": "木",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "04:00",
+            "close": "07:30"
+          },
+          {
+            "open": "16:00",
+            "close": "28:00"
+          }
+        ]
       },
       {
         "date": "2026-07-03",
         "weekday": "金",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "04:00",
+            "close": "06:30"
+          },
+          {
+            "open": "16:00",
+            "close": "28:00"
+          }
+        ]
       },
       {
         "date": "2026-07-04",
         "weekday": "土",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "04:00",
+            "close": "05:30"
+          },
+          {
+            "open": "15:00",
+            "close": "28:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.331Z"
+    "updatedAt": "2026-06-25T00:49:13.471Z"
   },
   {
     "store": {
@@ -3257,35 +3505,71 @@
       {
         "date": "2026-06-29",
         "weekday": "月",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "25:00"
+          }
+        ]
       },
       {
         "date": "2026-06-30",
         "weekday": "火",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "25:00"
+          }
+        ]
       },
       {
         "date": "2026-07-01",
         "weekday": "水",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "25:00"
+          }
+        ]
       },
       {
         "date": "2026-07-02",
         "weekday": "木",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "25:00"
+          }
+        ]
       },
       {
         "date": "2026-07-03",
         "weekday": "金",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "17:00",
+            "close": "25:00"
+          }
+        ]
       },
       {
         "date": "2026-07-04",
         "weekday": "土",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "15:00",
+            "close": "25:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.331Z"
+    "updatedAt": "2026-06-25T00:49:13.471Z"
   },
   {
     "store": {
@@ -3356,35 +3640,71 @@
       {
         "date": "2026-06-29",
         "weekday": "月",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "15:00",
+            "close": "23:00"
+          }
+        ]
       },
       {
         "date": "2026-06-30",
         "weekday": "火",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "15:00",
+            "close": "23:00"
+          }
+        ]
       },
       {
         "date": "2026-07-01",
         "weekday": "水",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "15:00",
+            "close": "23:00"
+          }
+        ]
       },
       {
         "date": "2026-07-02",
         "weekday": "木",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "15:00",
+            "close": "23:00"
+          }
+        ]
       },
       {
         "date": "2026-07-03",
         "weekday": "金",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "15:00",
+            "close": "25:00"
+          }
+        ]
       },
       {
         "date": "2026-07-04",
         "weekday": "土",
-        "status": "holiday"
+        "status": "open",
+        "hours": [
+          {
+            "open": "15:00",
+            "close": "25:00"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.331Z"
+    "updatedAt": "2026-06-25T00:49:13.472Z"
   },
   {
     "store": {
@@ -3491,7 +3811,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.331Z"
+    "updatedAt": "2026-06-25T00:49:13.472Z"
   },
   {
     "store": {
@@ -3602,7 +3922,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.331Z"
+    "updatedAt": "2026-06-25T00:49:13.472Z"
   },
   {
     "store": {
@@ -3703,7 +4023,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.331Z"
+    "updatedAt": "2026-06-25T00:49:13.472Z"
   },
   {
     "store": {
@@ -3810,7 +4130,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.331Z"
+    "updatedAt": "2026-06-25T00:49:13.472Z"
   },
   {
     "store": {
@@ -3917,7 +4237,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.332Z"
+    "updatedAt": "2026-06-25T00:49:13.472Z"
   },
   {
     "store": {
@@ -4032,7 +4352,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.332Z"
+    "updatedAt": "2026-06-25T00:49:13.472Z"
   },
   {
     "store": {
@@ -4143,7 +4463,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.332Z"
+    "updatedAt": "2026-06-25T00:49:13.472Z"
   },
   {
     "store": {
@@ -4252,7 +4572,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.332Z"
+    "updatedAt": "2026-06-25T00:49:13.472Z"
   },
   {
     "store": {
@@ -4359,7 +4679,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.332Z"
+    "updatedAt": "2026-06-25T00:49:13.473Z"
   },
   {
     "store": {
@@ -4464,7 +4784,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.332Z"
+    "updatedAt": "2026-06-25T00:49:13.473Z"
   },
   {
     "store": {
@@ -4571,7 +4891,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.332Z"
+    "updatedAt": "2026-06-25T00:49:13.473Z"
   },
   {
     "store": {
@@ -4676,7 +4996,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.332Z"
+    "updatedAt": "2026-06-25T00:49:13.473Z"
   },
   {
     "store": {
@@ -4787,7 +5107,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.332Z"
+    "updatedAt": "2026-06-25T00:49:13.473Z"
   },
   {
     "store": {
@@ -4898,7 +5218,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.332Z"
+    "updatedAt": "2026-06-25T00:49:13.474Z"
   },
   {
     "store": {
@@ -5033,7 +5353,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.333Z"
+    "updatedAt": "2026-06-25T00:49:13.474Z"
   },
   {
     "store": {
@@ -5176,7 +5496,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.333Z"
+    "updatedAt": "2026-06-25T00:49:13.474Z"
   },
   {
     "store": {
@@ -5319,7 +5639,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.333Z"
+    "updatedAt": "2026-06-25T00:49:13.474Z"
   },
   {
     "store": {
@@ -5454,7 +5774,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.333Z"
+    "updatedAt": "2026-06-25T00:49:13.474Z"
   },
   {
     "store": {
@@ -5589,7 +5909,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.333Z"
+    "updatedAt": "2026-06-25T00:49:13.474Z"
   },
   {
     "store": {
@@ -5720,7 +6040,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.333Z"
+    "updatedAt": "2026-06-25T00:49:13.474Z"
   },
   {
     "store": {
@@ -5855,7 +6175,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.333Z"
+    "updatedAt": "2026-06-25T00:49:13.475Z"
   },
   {
     "store": {
@@ -5994,7 +6314,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.333Z"
+    "updatedAt": "2026-06-25T00:49:13.475Z"
   },
   {
     "store": {
@@ -6137,7 +6457,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.333Z"
+    "updatedAt": "2026-06-25T00:49:13.475Z"
   },
   {
     "store": {
@@ -6276,7 +6596,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.334Z"
+    "updatedAt": "2026-06-25T00:49:13.475Z"
   },
   {
     "store": {
@@ -6415,7 +6735,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.334Z"
+    "updatedAt": "2026-06-25T00:49:13.475Z"
   },
   {
     "store": {
@@ -6546,7 +6866,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.334Z"
+    "updatedAt": "2026-06-25T00:49:13.475Z"
   },
   {
     "store": {
@@ -6677,7 +6997,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.334Z"
+    "updatedAt": "2026-06-25T00:49:13.476Z"
   },
   {
     "store": {
@@ -6790,7 +7110,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.334Z"
+    "updatedAt": "2026-06-25T00:49:13.476Z"
   },
   {
     "store": {
@@ -6907,7 +7227,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.334Z"
+    "updatedAt": "2026-06-25T00:49:13.476Z"
   },
   {
     "store": {
@@ -7024,7 +7344,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.334Z"
+    "updatedAt": "2026-06-25T00:49:13.476Z"
   },
   {
     "store": {
@@ -7141,7 +7461,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.335Z"
+    "updatedAt": "2026-06-25T00:49:13.476Z"
   },
   {
     "store": {
@@ -7266,7 +7586,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.335Z"
+    "updatedAt": "2026-06-25T00:49:13.476Z"
   },
   {
     "store": {
@@ -7379,7 +7699,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.335Z"
+    "updatedAt": "2026-06-25T00:49:13.476Z"
   },
   {
     "store": {
@@ -7490,7 +7810,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.335Z"
+    "updatedAt": "2026-06-25T00:49:13.476Z"
   },
   {
     "store": {
@@ -7601,7 +7921,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.335Z"
+    "updatedAt": "2026-06-25T00:49:13.476Z"
   },
   {
     "store": {
@@ -7712,7 +8032,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.335Z"
+    "updatedAt": "2026-06-25T00:49:13.477Z"
   },
   {
     "store": {
@@ -7823,7 +8143,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.335Z"
+    "updatedAt": "2026-06-25T00:49:13.477Z"
   },
   {
     "store": {
@@ -7938,7 +8258,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.336Z"
+    "updatedAt": "2026-06-25T00:49:13.477Z"
   },
   {
     "store": {
@@ -8077,7 +8397,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.336Z"
+    "updatedAt": "2026-06-25T00:49:13.477Z"
   },
   {
     "store": {
@@ -8216,7 +8536,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.336Z"
+    "updatedAt": "2026-06-25T00:49:13.477Z"
   },
   {
     "store": {
@@ -8367,7 +8687,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.336Z"
+    "updatedAt": "2026-06-25T00:49:13.478Z"
   },
   {
     "store": {
@@ -8502,7 +8822,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.337Z"
+    "updatedAt": "2026-06-25T00:49:13.478Z"
   },
   {
     "store": {
@@ -8637,7 +8957,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.337Z"
+    "updatedAt": "2026-06-25T00:49:13.478Z"
   },
   {
     "store": {
@@ -8772,7 +9092,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.337Z"
+    "updatedAt": "2026-06-25T00:49:13.478Z"
   },
   {
     "store": {
@@ -8907,7 +9227,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.337Z"
+    "updatedAt": "2026-06-25T00:49:13.478Z"
   },
   {
     "store": {
@@ -9042,7 +9362,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.337Z"
+    "updatedAt": "2026-06-25T00:49:13.478Z"
   },
   {
     "store": {
@@ -9177,7 +9497,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.337Z"
+    "updatedAt": "2026-06-25T00:49:13.478Z"
   },
   {
     "store": {
@@ -9312,7 +9632,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.337Z"
+    "updatedAt": "2026-06-25T00:49:13.479Z"
   },
   {
     "store": {
@@ -9451,7 +9771,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.337Z"
+    "updatedAt": "2026-06-25T00:49:13.479Z"
   },
   {
     "store": {
@@ -9586,7 +9906,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.337Z"
+    "updatedAt": "2026-06-25T00:49:13.479Z"
   },
   {
     "store": {
@@ -9717,7 +10037,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.338Z"
+    "updatedAt": "2026-06-25T00:49:13.479Z"
   },
   {
     "store": {
@@ -9828,7 +10148,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.338Z"
+    "updatedAt": "2026-06-25T00:49:13.479Z"
   },
   {
     "store": {
@@ -9939,7 +10259,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.338Z"
+    "updatedAt": "2026-06-25T00:49:13.479Z"
   },
   {
     "store": {
@@ -10050,7 +10370,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.338Z"
+    "updatedAt": "2026-06-25T00:49:13.479Z"
   },
   {
     "store": {
@@ -10161,7 +10481,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.338Z"
+    "updatedAt": "2026-06-25T00:49:13.479Z"
   },
   {
     "store": {
@@ -10272,7 +10592,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.338Z"
+    "updatedAt": "2026-06-25T00:49:13.480Z"
   },
   {
     "store": {
@@ -10379,7 +10699,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.338Z"
+    "updatedAt": "2026-06-25T00:49:13.480Z"
   },
   {
     "store": {
@@ -10474,7 +10794,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.338Z"
+    "updatedAt": "2026-06-25T00:49:13.480Z"
   },
   {
     "store": {
@@ -10609,7 +10929,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.338Z"
+    "updatedAt": "2026-06-25T00:49:13.480Z"
   },
   {
     "store": {
@@ -10740,7 +11060,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.338Z"
+    "updatedAt": "2026-06-25T00:49:13.480Z"
   },
   {
     "store": {
@@ -10879,7 +11199,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.338Z"
+    "updatedAt": "2026-06-25T00:49:13.480Z"
   },
   {
     "store": {
@@ -11016,7 +11336,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.339Z"
+    "updatedAt": "2026-06-25T00:49:13.480Z"
   },
   {
     "store": {
@@ -11155,7 +11475,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.339Z"
+    "updatedAt": "2026-06-25T00:49:13.480Z"
   },
   {
     "store": {
@@ -11284,7 +11604,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.339Z"
+    "updatedAt": "2026-06-25T00:49:13.480Z"
   },
   {
     "store": {
@@ -11415,7 +11735,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.339Z"
+    "updatedAt": "2026-06-25T00:49:13.481Z"
   },
   {
     "store": {
@@ -11544,7 +11864,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.339Z"
+    "updatedAt": "2026-06-25T00:49:13.481Z"
   },
   {
     "store": {
@@ -11673,7 +11993,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.340Z"
+    "updatedAt": "2026-06-25T00:49:13.481Z"
   },
   {
     "store": {
@@ -11808,7 +12128,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.340Z"
+    "updatedAt": "2026-06-25T00:49:13.481Z"
   },
   {
     "store": {
@@ -11943,7 +12263,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.340Z"
+    "updatedAt": "2026-06-25T00:49:13.481Z"
   },
   {
     "store": {
@@ -12078,7 +12398,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.340Z"
+    "updatedAt": "2026-06-25T00:49:13.481Z"
   },
   {
     "store": {
@@ -12213,7 +12533,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.340Z"
+    "updatedAt": "2026-06-25T00:49:13.482Z"
   },
   {
     "store": {
@@ -12352,7 +12672,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.340Z"
+    "updatedAt": "2026-06-25T00:49:13.482Z"
   },
   {
     "store": {
@@ -12483,7 +12803,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.341Z"
+    "updatedAt": "2026-06-25T00:49:13.482Z"
   },
   {
     "store": {
@@ -12618,7 +12938,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.341Z"
+    "updatedAt": "2026-06-25T00:49:13.482Z"
   },
   {
     "store": {
@@ -12753,7 +13073,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.341Z"
+    "updatedAt": "2026-06-25T00:49:13.482Z"
   },
   {
     "store": {
@@ -12888,7 +13208,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.341Z"
+    "updatedAt": "2026-06-25T00:49:13.482Z"
   },
   {
     "store": {
@@ -13035,7 +13355,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.341Z"
+    "updatedAt": "2026-06-25T00:49:13.483Z"
   },
   {
     "store": {
@@ -13166,7 +13486,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.342Z"
+    "updatedAt": "2026-06-25T00:49:13.483Z"
   },
   {
     "store": {
@@ -13301,7 +13621,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.342Z"
+    "updatedAt": "2026-06-25T00:49:13.483Z"
   },
   {
     "store": {
@@ -13440,7 +13760,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.342Z"
+    "updatedAt": "2026-06-25T00:49:13.483Z"
   },
   {
     "store": {
@@ -13571,7 +13891,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.342Z"
+    "updatedAt": "2026-06-25T00:49:13.483Z"
   },
   {
     "store": {
@@ -13702,7 +14022,7 @@
         ]
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.342Z"
+    "updatedAt": "2026-06-25T00:49:13.483Z"
   },
   {
     "store": {
@@ -13779,7 +14099,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.342Z"
+    "updatedAt": "2026-06-25T00:49:13.483Z"
   },
   {
     "store": {
@@ -13898,7 +14218,7 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.343Z"
+    "updatedAt": "2026-06-25T00:49:13.483Z"
   },
   {
     "store": {
@@ -14017,6 +14337,6 @@
         "status": "holiday"
       }
     ],
-    "updatedAt": "2026-06-25T00:11:52.343Z"
+    "updatedAt": "2026-06-25T00:49:13.484Z"
   }
 ]
